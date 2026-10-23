@@ -1,2 +1,2 @@
 # ProgModular2026
-Reporitório da Disciplina Programação Modular
+Repositório da Disciplina Programação Modular
